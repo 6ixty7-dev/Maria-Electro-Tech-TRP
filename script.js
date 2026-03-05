@@ -7,7 +7,7 @@
 // You'll get this URL after deploying the Apps Script (Step 4 in guide).
 // It looks like: https://script.google.com/macros/s/AKfycb.../exec
 
-const SCRIPT_URL = https://script.google.com/macros/s/AKfycbzHyMmshys-XHC4fAXXOIG7c0M_5wl0X5NARo5Jt5eJgYmOD85kpLSeLMkIgg3j6X_c/exec;
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzHyMmshys-XHC4fAXXOIG7c0M_5wl0X5NARo5Jt5eJgYmOD85kpLSeLMkIgg3j6X_c/exec";
 
 // ============================================================
 //  SAVE A NEW JOB ROW TO GOOGLE SHEETS
